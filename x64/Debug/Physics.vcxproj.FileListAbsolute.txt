@@ -1,0 +1,3 @@
+C:\Classes\Computer Science\Q7\Game Physics\Engine\Physics\x64\Debug\Physics.exe
+C:\Users\Dvallejo\Documents\Classes\Q5\Physics\x64\Debug\Physics.exe
+C:\Users\Dvallejo\Documents\Classes\Q5\Physics\PhysicsMain\x64\Debug\Physics.exe
